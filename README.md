@@ -8,7 +8,7 @@ Please use BaiduDisk to download the dataset. Link: https://pan.baidu.com/s/1uRm
 
 If you have problems in downloading the dataset, please contact us at any time to zfxue0903@zju.edu.cn.
 
-If you find our work is helpful for you, please kindly cite our paper:
+If you find our work helpful for you, please kindly cite our paper:
 
 @inproceedings{xue2021rsvs,
   title = {Rock segmentation visual system for assisting driving in TBM construction},
