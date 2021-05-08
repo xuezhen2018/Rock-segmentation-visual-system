@@ -1,5 +1,5 @@
 # Rock-segmentation-visual-system
-This repository contains the code and dataset for our paper named [Rock segmentation visual system for assisting driving in TBM construction](https://link.springer.com/article/10.1007/s00138-021-01203-8).
+This repository contains the code and dataset for our paper entitled [Rock segmentation visual system for assisting driving in TBM construction](https://link.springer.com/article/10.1007/s00138-021-01203-8).
 
 # Dataset
 We have released the 'Rock Segmentation Dataset' to the community. Hope that it will help someone in the same research area.
