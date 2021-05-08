@@ -14,6 +14,13 @@ If you find our work helpful for you, please kindly cite our paper:<br>
   year = {2021},
   doi = {10.1007/s00138-021-01203-8}
 }
+
+@inproceedings{xue2019rock,
+  title = {Multi mask learning of stone segmentation for auto-monitoring system in TBM construction},
+  author = {Zhenfeng Xue, Lianhui Jia, Wei Sun, Fulong Lin, Zhitao Liu, Weijie Mao},
+  booktitle = {the 38th Chinese Control Conference (CCC)},
+  year = {2019}
+}
 ```
 
 
