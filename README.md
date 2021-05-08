@@ -2,7 +2,7 @@
 This repository contains the code and dataset for our paper named 'Rock segmentation visual system for assisting driving in TBM construction'.
 
 # Dataset
-We have released the 'Rock Segmentation Dataset' to the community. Hope that it will help someone in same research area.
+We have released the 'Rock Segmentation Dataset' to the community. Hope that it will help someone in the same research area.
 
 Please use BaiduDisk to download the dataset. Link: https://pan.baidu.com/s/1uRmB4UE8WN4ct03EJJoXGQ . The pin number is 0903.
 
