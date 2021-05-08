@@ -6,7 +6,7 @@ We have released the 'Rock Segmentation Dataset' to the community. Hope that it 
 
 Please use BaiduDisk to download the dataset. Link: https://pan.baidu.com/s/1uRmB4UE8WN4ct03EJJoXGQ . The pin number is 0903.
 
-If you have problems in downloading the dataset, please contact us at any time at zfxue0903@zju.edu.cn.
+If you have problems in downloading the dataset, please contact us at any time to zfxue0903@zju.edu.cn.
 
 If you find our work is helpful for you, please kindly cite our paper:
 
