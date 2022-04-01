@@ -3,8 +3,8 @@ This repository contains the code and dataset for our paper entitled [Rock segme
 
 # News
 * (2019/07/27) Paper "[Multi mask learning of stone segmentation for auto-monitoring system in tbm construction](https://ieeexplore.ieee.org/abstract/document/8865323)" published in CCC2019.
-
-Another paper entitled [ViRFD: a virtual-realistic fused dataset for rock size analysis in TBM construction](https://link.springer.com/article/10.1007/s00521-022-07179-4) has been published.
+* (2021/05/06) Paper "[Rock segmentation visual system for assisting driving in TBM construction](https://link.springer.com/article/10.1007/s00138-021-01203-8)" published in MVA.
+* (2022/03/27) Paper "[ViRFD: a virtual-realistic fused dataset for rock size analysis in TBM construction](https://link.springer.com/article/10.1007/s00521-022-07179-4)" published in NCAA.
 
 # Dataset
 We have released the 'Rock Segmentation Dataset' to the community. Hope that it will help someone in the same research area.<br>
