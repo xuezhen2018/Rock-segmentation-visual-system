@@ -1,5 +1,5 @@
 # Rock-segmentation-visual-system
-This repository contains the code and dataset for our paper entitled [Rock segmentation visual system for assisting driving in TBM construction](https://link.springer.com/article/10.1007/s00138-021-01203-8).<br>
+This repository contains the code and dataset for the rock segmentation visual system in TBM construction.<br>
 
 # News
 * (2019/07/27) Paper "[Multi mask learning of stone segmentation for auto-monitoring system in tbm construction](https://ieeexplore.ieee.org/abstract/document/8865323)" published in CCC2019.
