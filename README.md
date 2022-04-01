@@ -26,22 +26,27 @@ The code will be released soon as well.<br>
   title = {Multi mask learning of stone segmentation for auto-monitoring system in TBM construction},
   author = {Zhenfeng Xue, Lianhui Jia, Wei Sun, Fulong Lin, Zhitao Liu, Weijie Mao},
   booktitle = {the 38th Chinese Control Conference (CCC)},
-  year = {2019}
+  year = {2019},
+  pages = {8733-8738}
 }
 
 @article{xue2021rsvs,
   title = {Rock segmentation visual system for assisting driving in TBM construction},
   author = {Zhenfeng Xue, Liang Chen, Zhitao Liu, Fulong Lin, Weijie Mao},
   booktitle = {Machine Vision and Applications},
+  volumn = {32},
+  issue = {4},
+  pages = {1-12},
   year = {2021},
   doi = {10.1007/s00138-021-01203-8}
 }
 
-@inproceedings{xue2022virfd,
+@article{xue2022virfd,
   title = {ViRFD: a virtual-realistic fused dataset for rock size analysis in TBM construction},
   author = {Zhenfeng Xue, Liang Chen, Zhitao Liu, Yong Liu, Weijie Mao},
-  booktitle = {Neural Computing & Applications}
-  year = {2022}，
+  booktitle = {Neural Computing and Applications},
+  year = {2022},
+  pages = {1-14},
   doi = {10.1007/s00521-022-07179-4}
 }
 ```
